@@ -1,9 +1,7 @@
-# antmixxx.github.io
-Personal website based on [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes), a two column responsive Jekyll theme perfect for powering your GitHub hosted blog.
+# Это работает.
+Штош. Забавно. Будем посмотреть.
 
+Пока не очень ясно как из этого можно сделать что-то удобное в качестве блокнота, но, наверное, стоит почитать про создание страничек на этом сервисе побольше.
 
-Start site local:
-```
-jekyll serve --watch -H 127.0.0.1
-```
+Забавно.
 
